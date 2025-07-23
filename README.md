@@ -37,6 +37,8 @@ wsi-viewer/
 ├── assets/
 │   ├── images/               # UI用画像
 │   └── icons/                # アイコン類
+├── raw/
+│   └── sample.ndpi           # サンプルNDPIファイル
 ├── samples/
 │   ├── sample.dzi            # サンプルDZI
 │   └── sample_files/         # サンプル画像タイル
