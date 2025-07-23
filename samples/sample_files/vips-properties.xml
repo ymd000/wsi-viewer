@@ -1,0 +1,505 @@
+<?xml version="1.0"?>
+<image xmlns="http://www.vips.ecs.soton.ac.uk//dzsave" date="2025-07-23T18:16:53.151954+09" version="8.15.1">
+  <properties>
+    <property>
+      <name>width</name>
+      <value type="gint">23040</value>
+    </property>
+    <property>
+      <name>height</name>
+      <value type="gint">12672</value>
+    </property>
+    <property>
+      <name>bands</name>
+      <value type="gint">4</value>
+    </property>
+    <property>
+      <name>xoffset</name>
+      <value type="gint">0</value>
+    </property>
+    <property>
+      <name>yoffset</name>
+      <value type="gint">0</value>
+    </property>
+    <property>
+      <name>xres</name>
+      <value type="gdouble">2270.5</value>
+    </property>
+    <property>
+      <name>yres</name>
+      <value type="gdouble">2270.5</value>
+    </property>
+    <property>
+      <name>vips-loader</name>
+      <value type="VipsRefString">openslideload</value>
+    </property>
+    <property>
+      <name>slide-level</name>
+      <value type="gint">0</value>
+    </property>
+    <property>
+      <name>hamamatsu.AHEX[0]</name>
+      <value type="VipsRefString">0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</value>
+    </property>
+    <property>
+      <name>hamamatsu.AHEX[0].fluorescence</name>
+      <value type="VipsRefString">0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</value>
+    </property>
+    <property>
+      <name>hamamatsu.AHEX[0].ploidy</name>
+      <value type="VipsRefString">0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</value>
+    </property>
+    <property>
+      <name>hamamatsu.AHEX[1]</name>
+      <value type="VipsRefString">0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</value>
+    </property>
+    <property>
+      <name>hamamatsu.AHEX[1].fluorescence</name>
+      <value type="VipsRefString">0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</value>
+    </property>
+    <property>
+      <name>hamamatsu.AHEX[1].ploidy</name>
+      <value type="VipsRefString">0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</value>
+    </property>
+    <property>
+      <name>hamamatsu.AHEX[2]</name>
+      <value type="VipsRefString">0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</value>
+    </property>
+    <property>
+      <name>hamamatsu.AHEX[2].fluorescence</name>
+      <value type="VipsRefString">0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</value>
+    </property>
+    <property>
+      <name>hamamatsu.Created</name>
+      <value type="VipsRefString">2023/06/14</value>
+    </property>
+    <property>
+      <name>hamamatsu.NDP.S/N</name>
+      <value type="VipsRefString">000282</value>
+    </property>
+    <property>
+      <name>hamamatsu.Objective.Lens.Magnificant</name>
+      <value type="VipsRefString">35.16</value>
+    </property>
+    <property>
+      <name>hamamatsu.PSHV</name>
+      <value type="VipsRefString">85</value>
+    </property>
+    <property>
+      <name>hamamatsu.PSHV.10x</name>
+      <value type="VipsRefString">85</value>
+    </property>
+    <property>
+      <name>hamamatsu.PSHV.40x</name>
+      <value type="VipsRefString">85</value>
+    </property>
+    <property>
+      <name>hamamatsu.PSHV.ploidy</name>
+      <value type="VipsRefString">85</value>
+    </property>
+    <property>
+      <name>hamamatsu.PSHV.ploidy.10x</name>
+      <value type="VipsRefString">85</value>
+    </property>
+    <property>
+      <name>hamamatsu.Product</name>
+      <value type="VipsRefString">C13239-01</value>
+    </property>
+    <property>
+      <name>hamamatsu.Reference</name>
+      <value type="VipsRefString">Ex2557_19</value>
+    </property>
+    <property>
+      <name>hamamatsu.SourceLens</name>
+      <value type="VipsRefString">20</value>
+    </property>
+    <property>
+      <name>hamamatsu.Updated</name>
+      <value type="VipsRefString">2024/04/19</value>
+    </property>
+    <property>
+      <name>hamamatsu.XOffsetFromSlideCentre</name>
+      <value type="VipsRefString">10984874</value>
+    </property>
+    <property>
+      <name>hamamatsu.YOffsetFromSlideCentre</name>
+      <value type="VipsRefString">-2369458</value>
+    </property>
+    <property>
+      <name>hamamatsu.YRNP[0]</name>
+      <value type="VipsRefString">0,0,0,0</value>
+    </property>
+    <property>
+      <name>hamamatsu.YRNP[1]</name>
+      <value type="VipsRefString">0,0,0,0</value>
+    </property>
+    <property>
+      <name>hamamatsu.YRNP[2]</name>
+      <value type="VipsRefString">0,0,0,0</value>
+    </property>
+    <property>
+      <name>hamamatsu.calibration.version</name>
+      <value type="VipsRefString">362</value>
+    </property>
+    <property>
+      <name>hamamatsu.ccd.height</name>
+      <value type="VipsRefString">0</value>
+    </property>
+    <property>
+      <name>hamamatsu.ccd.width</name>
+      <value type="VipsRefString">8456</value>
+    </property>
+    <property>
+      <name>hamamatsu.ccd.width.ploidy</name>
+      <value type="VipsRefString">8456</value>
+    </property>
+    <property>
+      <name>hamamatsu.coarse.focus.pitch</name>
+      <value type="VipsRefString">10000</value>
+    </property>
+    <property>
+      <name>hamamatsu.colorfilterID</name>
+      <value type="VipsRefString">0</value>
+    </property>
+    <property>
+      <name>hamamatsu.cube.kind</name>
+      <value type="VipsRefString">0</value>
+    </property>
+    <property>
+      <name>hamamatsu.exposure.barcode.macro</name>
+      <value type="VipsRefString">107</value>
+    </property>
+    <property>
+      <name>hamamatsu.exposure.slide.darkfield.macro</name>
+      <value type="VipsRefString">10</value>
+    </property>
+    <property>
+      <name>hamamatsu.exposure.slide.macro</name>
+      <value type="VipsRefString">4</value>
+    </property>
+    <property>
+      <name>hamamatsu.fine.focus.pitch</name>
+      <value type="VipsRefString">250</value>
+    </property>
+    <property>
+      <name>hamamatsu.focalplane.leftbottom</name>
+      <value type="VipsRefString">101530,688620,87932</value>
+    </property>
+    <property>
+      <name>hamamatsu.focalplane.lefttop</name>
+      <value type="VipsRefString">101530,488620,87992</value>
+    </property>
+    <property>
+      <name>hamamatsu.focalplane.rightbottom</name>
+      <value type="VipsRefString">501530,688620,87487</value>
+    </property>
+    <property>
+      <name>hamamatsu.focalplane.righttop</name>
+      <value type="VipsRefString">501530,488620,87462</value>
+    </property>
+    <property>
+      <name>hamamatsu.lane.shift.amount</name>
+      <value type="VipsRefString">1</value>
+    </property>
+    <property>
+      <name>hamamatsu.roi.barcode.macro</name>
+      <value type="VipsRefString">948,330,1213,698</value>
+    </property>
+    <property>
+      <name>hamamatsu.roi.slide.macro</name>
+      <value type="VipsRefString">58,309,1248,717</value>
+    </property>
+    <property>
+      <name>hamamatsu.slant.leftbottom</name>
+      <value type="VipsRefString">0,0,0</value>
+    </property>
+    <property>
+      <name>hamamatsu.slant.lefttop</name>
+      <value type="VipsRefString">0,0,0</value>
+    </property>
+    <property>
+      <name>hamamatsu.slant.rightbottom</name>
+      <value type="VipsRefString">0,0,0</value>
+    </property>
+    <property>
+      <name>hamamatsu.slant.righttop</name>
+      <value type="VipsRefString">0,0,0</value>
+    </property>
+    <property>
+      <name>hamamatsu.slide.tickness</name>
+      <value type="VipsRefString">0</value>
+    </property>
+    <property>
+      <name>hamamatsu.stage.center</name>
+      <value type="VipsRefString">191530,588620</value>
+    </property>
+    <property>
+      <name>hamamatsu.system.version</name>
+      <value type="VipsRefString">1.0</value>
+    </property>
+    <property>
+      <name>hamamatsu.target.white.intensity</name>
+      <value type="VipsRefString">235</value>
+    </property>
+    <property>
+      <name>hamamatsu.valid.DDKP</name>
+      <value type="VipsRefString">0</value>
+    </property>
+    <property>
+      <name>hamamatsu.valid.DLTP</name>
+      <value type="VipsRefString">0</value>
+    </property>
+    <property>
+      <name>hamamatsu.valid.DSHP</name>
+      <value type="VipsRefString">0</value>
+    </property>
+    <property>
+      <name>hamamatsu.variable.exposuretime</name>
+      <value type="VipsRefString">0</value>
+    </property>
+    <property>
+      <name>hamamatsu.zCoarse[0]</name>
+      <value type="VipsRefString">0,0,0,0</value>
+    </property>
+    <property>
+      <name>hamamatsu.zCoarse[1]</name>
+      <value type="VipsRefString">0,0,0,0</value>
+    </property>
+    <property>
+      <name>hamamatsu.zCoarse[2]</name>
+      <value type="VipsRefString">0,0,0,0</value>
+    </property>
+    <property>
+      <name>hamamatsu.zFine[0]</name>
+      <value type="VipsRefString">0,0,0,0</value>
+    </property>
+    <property>
+      <name>hamamatsu.zFine[1]</name>
+      <value type="VipsRefString">0,0,0,0</value>
+    </property>
+    <property>
+      <name>hamamatsu.zFine[2]</name>
+      <value type="VipsRefString">0,0,0,0</value>
+    </property>
+    <property>
+      <name>openslide.level-count</name>
+      <value type="VipsRefString">8</value>
+    </property>
+    <property>
+      <name>openslide.level[0].downsample</name>
+      <value type="VipsRefString">1</value>
+    </property>
+    <property>
+      <name>openslide.level[0].height</name>
+      <value type="VipsRefString">12672</value>
+    </property>
+    <property>
+      <name>openslide.level[0].tile-height</name>
+      <value type="VipsRefString">8</value>
+    </property>
+    <property>
+      <name>openslide.level[0].tile-width</name>
+      <value type="VipsRefString">1920</value>
+    </property>
+    <property>
+      <name>openslide.level[0].width</name>
+      <value type="VipsRefString">23040</value>
+    </property>
+    <property>
+      <name>openslide.level[1].downsample</name>
+      <value type="VipsRefString">2</value>
+    </property>
+    <property>
+      <name>openslide.level[1].height</name>
+      <value type="VipsRefString">6336</value>
+    </property>
+    <property>
+      <name>openslide.level[1].tile-height</name>
+      <value type="VipsRefString">8</value>
+    </property>
+    <property>
+      <name>openslide.level[1].tile-width</name>
+      <value type="VipsRefString">960</value>
+    </property>
+    <property>
+      <name>openslide.level[1].width</name>
+      <value type="VipsRefString">11520</value>
+    </property>
+    <property>
+      <name>openslide.level[2].downsample</name>
+      <value type="VipsRefString">4</value>
+    </property>
+    <property>
+      <name>openslide.level[2].height</name>
+      <value type="VipsRefString">3168</value>
+    </property>
+    <property>
+      <name>openslide.level[2].tile-height</name>
+      <value type="VipsRefString">8</value>
+    </property>
+    <property>
+      <name>openslide.level[2].tile-width</name>
+      <value type="VipsRefString">480</value>
+    </property>
+    <property>
+      <name>openslide.level[2].width</name>
+      <value type="VipsRefString">5760</value>
+    </property>
+    <property>
+      <name>openslide.level[3].downsample</name>
+      <value type="VipsRefString">8</value>
+    </property>
+    <property>
+      <name>openslide.level[3].height</name>
+      <value type="VipsRefString">1584</value>
+    </property>
+    <property>
+      <name>openslide.level[3].tile-height</name>
+      <value type="VipsRefString">8</value>
+    </property>
+    <property>
+      <name>openslide.level[3].tile-width</name>
+      <value type="VipsRefString">240</value>
+    </property>
+    <property>
+      <name>openslide.level[3].width</name>
+      <value type="VipsRefString">2880</value>
+    </property>
+    <property>
+      <name>openslide.level[4].downsample</name>
+      <value type="VipsRefString">16</value>
+    </property>
+    <property>
+      <name>openslide.level[4].height</name>
+      <value type="VipsRefString">792</value>
+    </property>
+    <property>
+      <name>openslide.level[4].tile-height</name>
+      <value type="VipsRefString">8</value>
+    </property>
+    <property>
+      <name>openslide.level[4].tile-width</name>
+      <value type="VipsRefString">120</value>
+    </property>
+    <property>
+      <name>openslide.level[4].width</name>
+      <value type="VipsRefString">1440</value>
+    </property>
+    <property>
+      <name>openslide.level[5].downsample</name>
+      <value type="VipsRefString">32</value>
+    </property>
+    <property>
+      <name>openslide.level[5].height</name>
+      <value type="VipsRefString">396</value>
+    </property>
+    <property>
+      <name>openslide.level[5].tile-height</name>
+      <value type="VipsRefString">4</value>
+    </property>
+    <property>
+      <name>openslide.level[5].tile-width</name>
+      <value type="VipsRefString">60</value>
+    </property>
+    <property>
+      <name>openslide.level[5].width</name>
+      <value type="VipsRefString">720</value>
+    </property>
+    <property>
+      <name>openslide.level[6].downsample</name>
+      <value type="VipsRefString">64</value>
+    </property>
+    <property>
+      <name>openslide.level[6].height</name>
+      <value type="VipsRefString">198</value>
+    </property>
+    <property>
+      <name>openslide.level[6].tile-height</name>
+      <value type="VipsRefString">2</value>
+    </property>
+    <property>
+      <name>openslide.level[6].tile-width</name>
+      <value type="VipsRefString">30</value>
+    </property>
+    <property>
+      <name>openslide.level[6].width</name>
+      <value type="VipsRefString">360</value>
+    </property>
+    <property>
+      <name>openslide.level[7].downsample</name>
+      <value type="VipsRefString">128</value>
+    </property>
+    <property>
+      <name>openslide.level[7].height</name>
+      <value type="VipsRefString">99</value>
+    </property>
+    <property>
+      <name>openslide.level[7].tile-height</name>
+      <value type="VipsRefString">1</value>
+    </property>
+    <property>
+      <name>openslide.level[7].tile-width</name>
+      <value type="VipsRefString">15</value>
+    </property>
+    <property>
+      <name>openslide.level[7].width</name>
+      <value type="VipsRefString">180</value>
+    </property>
+    <property>
+      <name>openslide.mpp-x</name>
+      <value type="VipsRefString">0.44043162299053074</value>
+    </property>
+    <property>
+      <name>openslide.mpp-y</name>
+      <value type="VipsRefString">0.44043162299053074</value>
+    </property>
+    <property>
+      <name>openslide.objective-power</name>
+      <value type="VipsRefString">20</value>
+    </property>
+    <property>
+      <name>openslide.quickhash-1</name>
+      <value type="VipsRefString">37f5581738a4bc6bf97324820d462c93ccc8679b3305c4816bb955306ce21f51</value>
+    </property>
+    <property>
+      <name>openslide.vendor</name>
+      <value type="VipsRefString">hamamatsu</value>
+    </property>
+    <property>
+      <name>tiff.DateTime</name>
+      <value type="VipsRefString">2025:03:05 13:48:23</value>
+    </property>
+    <property>
+      <name>tiff.Make</name>
+      <value type="VipsRefString">Hamamatsu</value>
+    </property>
+    <property>
+      <name>tiff.Model</name>
+      <value type="VipsRefString">C13239-01</value>
+    </property>
+    <property>
+      <name>tiff.ResolutionUnit</name>
+      <value type="VipsRefString">centimeter</value>
+    </property>
+    <property>
+      <name>tiff.Software</name>
+      <value type="VipsRefString">NDP.scan 3.4.2</value>
+    </property>
+    <property>
+      <name>tiff.XResolution</name>
+      <value type="VipsRefString">22705</value>
+    </property>
+    <property>
+      <name>tiff.YResolution</name>
+      <value type="VipsRefString">22705</value>
+    </property>
+    <property>
+      <name>slide-associated-images</name>
+      <value type="VipsRefString">macro</value>
+    </property>
+    <property>
+      <name>vips-sequential</name>
+      <value type="gint">1</value>
+    </property>
+  </properties>
+</image>

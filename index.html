@@ -49,7 +49,7 @@
         const viewer = OpenSeadragon({
             id: "viewer",
             prefixUrl: "https://cdn.jsdelivr.net/npm/openseadragon@4.1.0/build/openseadragon/images/",
-            tileSources: 'https://openseadragon.github.io/example-images/duomo/duomo.dzi',
+            tileSources: 'samples/sample.dzi',
             showNavigator: true,
             navigatorPosition: 'BOTTOM_RIGHT',
             showHomeControl: true,
@@ -64,9 +64,21 @@
             zoomPerScroll: 2.0
         });
 
+        // エラーハンドリング
+        viewer.addHandler('open-failed', function(event) {
+            console.error('Failed to load WSI image:', event);
+            document.getElementById('viewer').innerHTML = '<div style="color: red; text-align: center; padding: 50px;">画像の読み込みに失敗しました。<br>samples/sample.dzi が存在することを確認してください。</div>';
+        });
+
         // 初期化完了時のログ出力
         viewer.addHandler('open', function() {
             console.log('WSI Viewer initialized successfully');
+            console.log('Image dimensions:', viewer.world.getItemAt(0).getContentSize());
+        });
+
+        // ズームイベントのログ
+        viewer.addHandler('zoom', function(event) {
+            console.log('Zoom level:', event.zoom);
         });
     </script>
 </body>
